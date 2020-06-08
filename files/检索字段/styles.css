@@ -3,7 +3,7 @@
   background-image:none;
   position:static;
   left:auto;
-  width:1202px;
+  width:1125px;
   margin-left:0;
   margin-right:0;
   text-align:left;
@@ -12,20 +12,12 @@
   position:absolute;
   z-index:0;
 }
-<<<<<<< HEAD
-#u14_div {
-=======
-#u8_div {
->>>>>>> 首次提交
+#u0_div {
   position:absolute;
   left:0px;
   top:0px;
-  width:1202px;
-<<<<<<< HEAD
-  height:220px;
-=======
-  height:120px;
->>>>>>> 首次提交
+  width:1125px;
+  height:2070px;
   background:inherit;
   background-color:rgba(239, 90, 161, 1);
   border:none;
@@ -33,31 +25,20 @@
   -moz-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
   -webkit-box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
   box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
-  color:#FFFFFF;
+  font-size:14px;
 }
-<<<<<<< HEAD
-#u14 {
-=======
-#u8 {
->>>>>>> 首次提交
+#u0 {
   position:absolute;
   left:0px;
   top:0px;
-  width:1202px;
-<<<<<<< HEAD
-  height:220px;
-  color:#FFFFFF;
+  width:1125px;
+  height:2070px;
+  font-size:14px;
 }
-#u15 {
-=======
-  height:120px;
-  color:#FFFFFF;
-}
-#u9 {
->>>>>>> 首次提交
+#u1 {
   position:absolute;
   left:10px;
   top:10px;
-  width:1182px;
+  width:1105px;
   word-wrap:break-word;
 }
