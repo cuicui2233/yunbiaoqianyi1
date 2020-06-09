@@ -12,20 +12,12 @@
   position:absolute;
   z-index:0;
 }
-<<<<<<< HEAD
-#u14_div {
-=======
 #u8_div {
->>>>>>> 首次提交
   position:absolute;
   left:0px;
   top:0px;
   width:1202px;
-<<<<<<< HEAD
-  height:220px;
-=======
   height:120px;
->>>>>>> 首次提交
   background:inherit;
   background-color:rgba(239, 90, 161, 1);
   border:none;
@@ -35,26 +27,15 @@
   box-shadow:5px 5px 5px rgba(0, 0, 0, 0.2);
   color:#FFFFFF;
 }
-<<<<<<< HEAD
-#u14 {
-=======
 #u8 {
->>>>>>> 首次提交
   position:absolute;
   left:0px;
   top:0px;
   width:1202px;
-<<<<<<< HEAD
-  height:220px;
-  color:#FFFFFF;
-}
-#u15 {
-=======
   height:120px;
   color:#FFFFFF;
 }
 #u9 {
->>>>>>> 首次提交
   position:absolute;
   left:10px;
   top:10px;
